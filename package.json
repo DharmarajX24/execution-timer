@@ -1,0 +1,23 @@
+{
+  "name": "exe-time",
+  "version": "1.0.0",
+  "description": "A simple node package to measure execution time of your NodeJS Application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DharmarajX24/exe-time.git"
+  },
+  "keywords": [
+    "node",
+    "time"
+  ],
+  "author": "Dharmaraj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DharmarajX24/exe-time/issues"
+  },
+  "homepage": "https://github.com/DharmarajX24/exe-time#readme"
+}
