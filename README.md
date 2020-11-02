@@ -8,10 +8,10 @@ A simple node package to measure execution time of your NodeJS Application
 **1. Installation**
 
 ```shell
+# NPM
 npm install execution-timer
-```
-**OR**
-```shell
+
+# Yarn 
 yarn add execution-timer
 ```
 
