@@ -1,6 +1,6 @@
 {
   "name": "execution-timer",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A simple node package to measure execution time of your NodeJS Application.",
   "main": "index.js",
   "scripts": {
