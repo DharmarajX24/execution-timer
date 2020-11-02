@@ -1,6 +1,7 @@
 const processes = {};
 
 exports.start = (name) => {
+  console.log(age || 5);
   const processId = name || genId();
   processes[processId] = { started: Date.now() };
   return { result: true, pid: processId };

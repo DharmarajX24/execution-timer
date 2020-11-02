@@ -6,15 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "types": "index.d.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DharmarajX24/exe-time.git"
   },
   "keywords": [
     "node",
-    "time"
+    "time",
+    "execution-time"
   ],
-  "author": "Dharmaraj",
+  "author": "Dharmaraj", 
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/DharmarajX24/exe-time/issues"
